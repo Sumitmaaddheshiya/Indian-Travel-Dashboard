@@ -1,0 +1,433 @@
+Year,Month,Destination Country,Destination City,Travelers
+2022,1,Thailand,Bangkok,110000
+2022,1,Thailand,Phuket,70000
+2022,1,United Arab Emirates,Dubai,185000
+2022,1,United Arab Emirates,Abu Dhabi,65000
+2022,1,United States,New York,80000
+2022,1,United States,San Francisco,50000
+2022,1,Saudi Arabia,Riyadh,45000
+2022,1,Saudi Arabia,Jeddah,55000
+2022,1,United Kingdom,London,60000
+2022,1,France,Paris,40000
+2022,2,Thailand,Bangkok,105000
+2022,2,Thailand,Phuket,68000
+2022,2,United Arab Emirates,Dubai,170000
+2022,2,United Arab Emirates,Abu Dhabi,62000
+2022,2,United States,New York,78000
+2022,2,United States,San Francisco,48000
+2022,2,Saudi Arabia,Riyadh,42000
+2022,2,Saudi Arabia,Jeddah,52000
+2022,2,United Kingdom,London,58000
+2022,2,France,Paris,38000
+2022,3,Thailand,Bangkok,130000
+2022,3,Thailand,Phuket,85000
+2022,3,United Arab Emirates,Dubai,160000
+2022,3,United Arab Emirates,Abu Dhabi,60000
+2022,3,United States,New York,75000
+2022,3,United States,San Francisco,45000
+2022,3,Malaysia,Kuala Lumpur,75000
+2022,3,Singapore,Singapore,95000
+2022,3,Saudi Arabia,Mecca,120000
+2022,3,Saudi Arabia,Medina,90000
+2022,4,Thailand,Bangkok,120000
+2022,4,Thailand,Phuket,80000
+2022,4,United Arab Emirates,Dubai,155000
+2022,4,United Arab Emirates,Abu Dhabi,58000
+2022,4,United States,New York,72000
+2022,4,United States,San Francisco,43000
+2022,4,Malaysia,Kuala Lumpur,70000
+2022,4,Singapore,Singapore,90000
+2022,5,Thailand,Bangkok,145000
+2022,5,Thailand,Phuket,95000
+2022,5,United Arab Emirates,Dubai,150000
+2022,5,United Arab Emirates,Abu Dhabi,55000
+2022,5,United States,New York,70000
+2022,5,United States,San Francisco,42000
+2022,5,United Kingdom,London,65000
+2022,5,France,Paris,45000
+2022,5,Canada,Toronto,40000
+2022,5,Australia,Sydney,38000
+2022,6,Thailand,Bangkok,160000
+2022,6,Thailand,Phuket,110000
+2022,6,United Arab Emirates,Dubai,145000
+2022,6,United Arab Emirates,Abu Dhabi,50000
+2022,6,United States,New York,68000
+2022,6,United States,San Francisco,40000
+2022,6,Malaysia,Kuala Lumpur,80000
+2022,6,Singapore,Singapore,100000
+2022,6,United Kingdom,London,60000
+2022,7,Thailand,Bangkok,155000
+2022,7,Thailand,Phuket,105000
+2022,7,United Arab Emirates,Dubai,140000
+2022,7,United Arab Emirates,Abu Dhabi,48000
+2022,7,United States,New York,65000
+2022,7,United States,San Francisco,38000
+2022,7,Canada,Vancouver,35000
+2022,7,Australia,Melbourne,32000
+2022,8,Thailand,Bangkok,150000
+2022,8,Thailand,Phuket,100000
+2022,8,United Arab Emirates,Dubai,165000
+2022,8,United Arab Emirates,Abu Dhabi,60000
+2022,8,United States,New York,63000
+2022,8,United States,San Francisco,37000
+2022,8,Saudi Arabia,Riyadh,40000
+2022,8,Saudi Arabia,Jeddah,50000
+2022,9,Thailand,Bangkok,140000
+2022,9,Thailand,Phuket,90000
+2022,9,United Arab Emirates,Dubai,175000
+2022,9,United Arab Emirates,Abu Dhabi,65000
+2022,9,United States,New York,60000
+2022,9,United States,San Francisco,35000
+2022,9,United Kingdom,London,55000
+2022,9,France,Paris,40000
+2022,10,Thailand,Bangkok,135000
+2022,10,Thailand,Phuket,85000
+2022,10,United Arab Emirates,Dubai,180000
+2022,10,United Arab Emirates,Abu Dhabi,70000
+2022,10,United States,New York,58000
+2022,10,United States,San Francisco,33000
+2022,10,Canada,Toronto,38000
+2022,10,Australia,Sydney,35000
+2022,11,Thailand,Bangkok,125000
+2022,11,Thailand,Phuket,80000
+2022,11,United Arab Emirates,Dubai,190000
+2022,11,United Arab Emirates,Abu Dhabi,75000
+2022,11,United States,New York,55000
+2022,11,United States,San Francisco,32000
+2022,11,Malaysia,Kuala Lumpur,85000
+2022,11,Singapore,Singapore,105000
+2022,12,Thailand,Bangkok,170000
+2022,12,Thailand,Phuket,120000
+2022,12,United Arab Emirates,Dubai,220000
+2022,12,United Arab Emirates,Abu Dhabi,85000
+2022,12,United States,New York,90000
+2022,12,United States,San Francisco,60000
+2022,12,United Kingdom,London,75000
+2022,12,France,Paris,55000
+2022,12,Canada,Toronto,50000
+2022,12,Australia,Sydney,45000
+2023,1,Thailand,Bangkok,125000
+2023,1,Thailand,Phuket,85000
+2023,1,United Arab Emirates,Dubai,198000
+2023,1,United Arab Emirates,Abu Dhabi,72000
+2023,1,United States,New York,95000
+2023,1,United States,San Francisco,62000
+2023,1,Saudi Arabia,Riyadh,48000
+2023,1,Saudi Arabia,Jeddah,58000
+2023,1,United Kingdom,London,65000
+2023,1,France,Paris,42000
+2023,2,Thailand,Bangkok,115000
+2023,2,Thailand,Phuket,78000
+2023,2,United Arab Emirates,Dubai,175000
+2023,2,United Arab Emirates,Abu Dhabi,68000
+2023,2,United States,New York,87000
+2023,2,United States,San Francisco,58000
+2023,2,Saudi Arabia,Riyadh,45000
+2023,2,Saudi Arabia,Jeddah,55000
+2023,2,United Kingdom,London,62000
+2023,2,France,Paris,40000
+2023,3,Thailand,Bangkok,145000
+2023,3,Thailand,Phuket,92000
+2023,3,United Arab Emirates,Dubai,168000
+2023,3,United Arab Emirates,Abu Dhabi,71000
+2023,3,United States,New York,82000
+2023,3,United States,San Francisco,54000
+2023,3,Malaysia,Kuala Lumpur,89000
+2023,3,Singapore,Singapore,110000
+2023,3,Saudi Arabia,Mecca,125000
+2023,3,Saudi Arabia,Medina,95000
+2023,4,Thailand,Bangkok,135000
+2023,4,Thailand,Phuket,88000
+2023,4,United Arab Emirates,Dubai,162000
+2023,4,United Arab Emirates,Abu Dhabi,69000
+2023,4,United States,New York,78000
+2023,4,United States,San Francisco,52000
+2023,4,Malaysia,Kuala Lumpur,82000
+2023,4,Singapore,Singapore,102000
+2023,5,Thailand,Bangkok,155000
+2023,5,Thailand,Phuket,102000
+2023,5,United Arab Emirates,Dubai,158000
+2023,5,United Arab Emirates,Abu Dhabi,60000
+2023,5,United States,New York,74000
+2023,5,United States,San Francisco,50000
+2023,5,United Kingdom,London,70000
+2023,5,France,Paris,48000
+2023,5,Canada,Toronto,45000
+2023,5,Australia,Sydney,40000
+2023,6,Thailand,Bangkok,168000
+2023,6,Thailand,Phuket,115000
+2023,6,United Arab Emirates,Dubai,152000
+2023,6,United Arab Emirates,Abu Dhabi,55000
+2023,6,United States,New York,71000
+2023,6,United States,San Francisco,47000
+2023,6,Malaysia,Kuala Lumpur,88000
+2023,6,Singapore,Singapore,108000
+2023,6,United Kingdom,London,65000
+2023,7,Thailand,Bangkok,162000
+2023,7,Thailand,Phuket,110000
+2023,7,United Arab Emirates,Dubai,148000
+2023,7,United Arab Emirates,Abu Dhabi,52000
+2023,7,United States,New York,68000
+2023,7,United States,San Francisco,45000
+2023,7,Canada,Vancouver,40000
+2023,7,Australia,Melbourne,35000
+2023,8,Thailand,Bangkok,158000
+2023,8,Thailand,Phuket,105000
+2023,8,United Arab Emirates,Dubai,172000
+2023,8,United Arab Emirates,Abu Dhabi,65000
+2023,8,United States,New York,66000
+2023,8,United States,San Francisco,43000
+2023,8,Saudi Arabia,Riyadh,42000
+2023,8,Saudi Arabia,Jeddah,52000
+2023,9,Thailand,Bangkok,148000
+2023,9,Thailand,Phuket,95000
+2023,9,United Arab Emirates,Dubai,182000
+2023,9,United Arab Emirates,Abu Dhabi,68000
+2023,9,United States,New York,63000
+2023,9,United States,San Francisco,41000
+2023,9,United Kingdom,London,60000
+2023,9,France,Paris,43000
+2023,10,Thailand,Bangkok,142000
+2023,10,Thailand,Phuket,90000
+2023,10,United Arab Emirates,Dubai,188000
+2023,10,United Arab Emirates,Abu Dhabi,73000
+2023,10,United States,New York,61000
+2023,10,United States,San Francisco,39000
+2023,10,Canada,Toronto,42000
+2023,10,Australia,Sydney,38000
+2023,11,Thailand,Bangkok,132000
+2023,11,Thailand,Phuket,85000
+2023,11,United Arab Emirates,Dubai,195000
+2023,11,United Arab Emirates,Abu Dhabi,78000
+2023,11,United States,New York,58000
+2023,11,United States,San Francisco,37000
+2023,11,Malaysia,Kuala Lumpur,92000
+2023,11,Singapore,Singapore,112000
+2023,12,Thailand,Bangkok,178000
+2023,12,Thailand,Phuket,125000
+2023,12,United Arab Emirates,Dubai,228000
+2023,12,United Arab Emirates,Abu Dhabi,88000
+2023,12,United States,New York,95000
+2023,12,United States,San Francisco,65000
+2023,12,United Kingdom,London,80000
+2023,12,France,Paris,58000
+2023,12,Canada,Toronto,52000
+2023,12,Australia,Sydney,48000
+2024,1,Thailand,Bangkok,130000
+2024,1,Thailand,Phuket,88000
+2024,1,United Arab Emirates,Dubai,205000
+2024,1,United Arab Emirates,Abu Dhabi,75000
+2024,1,United States,New York,98000
+2024,1,United States,San Francisco,64000
+2024,1,Saudi Arabia,Riyadh,50000
+2024,1,Saudi Arabia,Jeddah,60000
+2024,1,United Kingdom,London,68000
+2024,1,France,Paris,44000
+2024,2,Thailand,Bangkok,120000
+2024,2,Thailand,Phuket,80000
+2024,2,United Arab Emirates,Dubai,180000
+2024,2,United Arab Emirates,Abu Dhabi,70000
+2024,2,United States,New York,90000
+2024,2,United States,San Francisco,60000
+2024,2,Saudi Arabia,Riyadh,47000
+2024,2,Saudi Arabia,Jeddah,57000
+2024,2,United Kingdom,London,65000
+2024,2,France,Paris,42000
+2024,3,Thailand,Bangkok,150000
+2024,3,Thailand,Phuket,95000
+2024,3,United Arab Emirates,Dubai,175000
+2024,3,United Arab Emirates,Abu Dhabi,73000
+2024,3,United States,New York,85000
+2024,3,United States,San Francisco,56000
+2024,3,Malaysia,Kuala Lumpur,92000
+2024,3,Singapore,Singapore,115000
+2024,3,Saudi Arabia,Mecca,130000
+2024,3,Saudi Arabia,Medina,98000
+2024,4,Thailand,Bangkok,140000
+2024,4,Thailand,Phuket,90000
+2024,4,United Arab Emirates,Dubai,170000
+2024,4,United Arab Emirates,Abu Dhabi,71000
+2024,4,United States,New York,81000
+2024,4,United States,San Francisco,54000
+2024,4,Malaysia,Kuala Lumpur,85000
+2024,4,Singapore,Singapore,105000
+2024,5,Thailand,Bangkok,160000
+2024,5,Thailand,Phuket,105000
+2024,5,United Arab Emirates,Dubai,165000
+2024,5,United Arab Emirates,Abu Dhabi,62000
+2024,5,United States,New York,77000
+2024,5,United States,San Francisco,52000
+2024,5,United Kingdom,London,72000
+2024,5,France,Paris,50000
+2024,5,Canada,Toronto,47000
+2024,5,Australia,Sydney,42000
+2024,6,Thailand,Bangkok,175000
+2024,6,Thailand,Phuket,118000
+2024,6,United Arab Emirates,Dubai,158000
+2024,6,United Arab Emirates,Abu Dhabi,57000
+2024,6,United States,New York,74000
+2024,6,United States,San Francisco,49000
+2024,6,Malaysia,Kuala Lumpur,91000
+2024,6,Singapore,Singapore,111000
+2024,6,United Kingdom,London,67000
+2024,7,Thailand,Bangkok,168000
+2024,7,Thailand,Phuket,113000
+2024,7,United Arab Emirates,Dubai,155000
+2024,8,Thailand,Bangkok,158000
+2024,8,Thailand,Phuket,105000
+2024,8,United Arab Emirates,Dubai,172000
+2024,8,United Arab Emirates,Abu Dhabi,65000
+2024,8,United States,New York,66000
+2024,8,United States,San Francisco,43000
+2024,8,Saudi Arabia,Riyadh,42000
+2024,8,Saudi Arabia,Jeddah,52000
+2024,8,United Kingdom,London,60000
+2024,8,France,Paris,43000
+2024,9,Thailand,Bangkok,148000
+2024,9,Thailand,Phuket,95000
+2024,9,United Arab Emirates,Dubai,182000
+2024,9,United Arab Emirates,Abu Dhabi,68000
+2024,9,United States,New York,63000
+2024,9,United States,San Francisco,41000
+2024,9,Malaysia,Kuala Lumpur,87000
+2024,9,Singapore,Singapore,107000
+2024,9,United Kingdom,London,58000
+2024,9,France,Paris,41000
+2024,10,Thailand,Bangkok,142000
+2024,10,Thailand,Phuket,90000
+2024,10,United Arab Emirates,Dubai,188000
+2024,10,United Arab Emirates,Abu Dhabi,73000
+2024,10,United States,New York,61000
+2024,10,United States,San Francisco,39000
+2024,10,Canada,Toronto,42000
+2024,10,Australia,Sydney,38000
+2024,10,United Kingdom,London,56000
+2024,11,Thailand,Bangkok,132000
+2024,11,Thailand,Phuket,85000
+2024,11,United Arab Emirates,Dubai,195000
+2024,11,United Arab Emirates,Abu Dhabi,78000
+2024,11,United States,New York,58000
+2024,11,United States,San Francisco,37000
+2024,11,Malaysia,Kuala Lumpur,92000
+2024,11,Singapore,Singapore,112000
+2024,11,Saudi Arabia,Mecca,115000
+2024,11,Saudi Arabia,Medina,87000
+2024,12,Thailand,Bangkok,178000
+2024,12,Thailand,Phuket,125000
+2024,12,United Arab Emirates,Dubai,228000
+2024,12,United Arab Emirates,Abu Dhabi,88000
+2024,12,United States,New York,95000
+2024,12,United States,San Francisco,65000
+2024,12,United Kingdom,London,80000
+2024,12,France,Paris,58000
+2024,12,Canada,Toronto,52000
+2024,12,Australia,Sydney,48000
+2024,12,Malaysia,Kuala Lumpur,99000
+2024,12,Singapore,Singapore,121000
+2025,1,Thailand,Bangkok,143000
+2025,1,Thailand,Phuket,96800
+2025,1,United Arab Emirates,Dubai,225500
+2025,1,United Arab Emirates,Abu Dhabi,82500
+2025,1,United States,New York,107800
+2025,1,United States,San Francisco,70400
+2025,1,Saudi Arabia,Riyadh,55000
+2025,1,Saudi Arabia,Jeddah,66000
+2025,1,United Kingdom,London,74800
+2025,1,France,Paris,48400
+2025,2,Thailand,Bangkok,132000
+2025,2,Thailand,Phuket,88000
+2025,2,United Arab Emirates,Dubai,198000
+2025,2,United Arab Emirates,Abu Dhabi,77000
+2025,2,United States,New York,99000
+2025,2,United States,San Francisco,66000
+2025,2,Saudi Arabia,Riyadh,51700
+2025,2,Saudi Arabia,Jeddah,62700
+2025,2,United Kingdom,London,71500
+2025,2,France,Paris,46200
+2025,3,Thailand,Bangkok,165000
+2025,3,Thailand,Phuket,104500
+2025,3,United Arab Emirates,Dubai,192500
+2025,3,United Arab Emirates,Abu Dhabi,80300
+2025,3,United States,New York,93500
+2025,3,United States,San Francisco,61600
+2025,3,Malaysia,Kuala Lumpur,101200
+2025,3,Singapore,Singapore,126500
+2025,3,Saudi Arabia,Mecca,143000
+2025,3,Saudi Arabia,Medina,107800
+2025,4,Thailand,Bangkok,154000
+2025,4,Thailand,Phuket,99000
+2025,4,United Arab Emirates,Dubai,187000
+2025,4,United Arab Emirates,Abu Dhabi,78100
+2025,4,United States,New York,89100
+2025,4,United States,San Francisco,59400
+2025,4,Malaysia,Kuala Lumpur,93500
+2025,4,Singapore,Singapore,115500
+2025,5,Thailand,Bangkok,176000
+2025,5,Thailand,Phuket,115500
+2025,5,United Arab Emirates,Dubai,181500
+2025,5,United Arab Emirates,Abu Dhabi,68200
+2025,5,United States,New York,84700
+2025,5,United States,San Francisco,57200
+2025,5,United Kingdom,London,79200
+2025,5,France,Paris,55000
+2025,5,Canada,Toronto,51700
+2025,5,Australia,Sydney,46200
+2025,6,Thailand,Bangkok,192500
+2025,6,Thailand,Phuket,129800
+2025,6,United Arab Emirates,Dubai,173800
+2025,6,United Arab Emirates,Abu Dhabi,62700
+2025,6,United States,New York,81400
+2025,6,United States,San Francisco,53900
+2025,6,Malaysia,Kuala Lumpur,100100
+2025,6,Singapore,Singapore,122100
+2025,6,United Kingdom,London,73700
+2025,7,Thailand,Bangkok,184800
+2025,7,Thailand,Phuket,124300
+2025,7,United Arab Emirates,Dubai,170500
+2025,7,United Arab Emirates,Abu Dhabi,57200
+2025,7,United States,New York,74800
+2025,7,United States,San Francisco,49500
+2025,7,Canada,Vancouver,44000
+2025,7,Australia,Melbourne,38500
+2025,8,Thailand,Bangkok,173800
+2025,8,Thailand,Phuket,115500
+2025,8,United Arab Emirates,Dubai,189200
+2025,8,United Arab Emirates,Abu Dhabi,71500
+2025,8,United States,New York,72600
+2025,8,United States,San Francisco,47300
+2025,8,Saudi Arabia,Riyadh,46200
+2025,8,Saudi Arabia,Jeddah,57200
+2025,9,Thailand,Bangkok,162800
+2025,9,Thailand,Phuket,104500
+2025,9,United Arab Emirates,Dubai,200200
+2025,9,United Arab Emirates,Abu Dhabi,74800
+2025,9,United States,New York,69300
+2025,9,United States,San Francisco,45100
+2025,9,United Kingdom,London,66000
+2025,9,France,Paris,47300
+2025,10,Thailand,Bangkok,156200
+2025,10,Thailand,Phuket,99000
+2025,10,United Arab Emirates,Dubai,206800
+2025,10,United Arab Emirates,Abu Dhabi,80300
+2025,10,United States,New York,67100
+2025,10,United States,San Francisco,42900
+2025,10,Canada,Toronto,46200
+2025,10,Australia,Sydney,41800
+2025,11,Thailand,Bangkok,145200
+2025,11,Thailand,Phuket,93500
+2025,11,United Arab Emirates,Dubai,214500
+2025,11,United Arab Emirates,Abu Dhabi,85800
+2025,11,United States,New York,63800
+2025,11,United States,San Francisco,40700
+2025,11,Malaysia,Kuala Lumpur,101200
+2025,11,Singapore,Singapore,123200
+2025,12,Thailand,Bangkok,195800
+2025,12,Thailand,Phuket,137500
+2025,12,United Arab Emirates,Dubai,250800
+2025,12,United Arab Emirates,Abu Dhabi,96800
+2025,12,United States,New York,104500
+2025,12,United States,San Francisco,71500
+2025,12,United Kingdom,London,88000
+2025,12,France,Paris,63800
+2025,12,Canada,Toronto,57200
+2025,12,Australia,Sydney,52800
