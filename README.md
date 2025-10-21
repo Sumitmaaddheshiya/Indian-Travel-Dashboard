@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing Indian outbound travel patterns, trends, and destinations.
 
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Dashboard Overview](Screenshots.png)
 
 ## 📊 Project Overview
 
